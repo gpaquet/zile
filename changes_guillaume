@@ -1,0 +1,2 @@
+* window.c - added the split-window-vertically and split-window-horizontally functions
+* zile.h - added x_pos and y_pos to the window struct
